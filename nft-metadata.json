@@ -1,0 +1,33 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Poodle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Mocha"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "DOB",
+      "value": "01012020"
+    },
+    {
+      "trait_type": "Stud",
+      "value": "TestPoodleDadNFT1"
+    },
+    {
+      "trait_type": "Bitch",
+      "value": "TestPoodleMomNFT2"
+    }
+  ],
+  "description": "The world's most adorable and sensitive pup.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZggFMHL6EyRUknAff4bkRxbhEFvEH6UZEqsA75g1Cxjh",
+  "name": "TestPoodle"
+}
+
+
